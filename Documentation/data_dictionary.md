@@ -1,9 +1,10 @@
 # Data Dictionary
 
-This document defines the dataset fields used in the project. It includes the column name, data type, and a brief description of each field.
-
-| Column Name     | Data Type | Description                            |
-|-----------------|-----------|----------------------------------------|
-| loan_amnt       | Integer   | Amount of the loan requested by borrower. |
-| term            | String    | Loan repayment period (e.g., 36 months). |
-| int_rate        | Float     | Interest rate for the loan.            |
+Column			Type		Source		Description
+City				Text		Both		Name of the city
+State				Text		Both		State abbreviation
+Bachelor_Percentage		Numeric	Census.gov	% adults with bachelor's degree or more
+High_School_Percentage	Numeric	Census.gov	% of adults with a high school diploma
+Total_Crime			Numeric	FBI UCR	Total reported crimes
+Violent_Crime			Numeric	FBI UCR	Total violent crimes
+Property_Crime			Numeric	FBI UCR	Total property crimes
