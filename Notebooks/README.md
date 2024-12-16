@@ -1,14 +1,7 @@
 # Notebooks Folder
 
-This folder contains Jupyter notebooks for data analysis and visualization.
+This folder contains the Jupyter notebooks used in the project.
 
-## Template
-- `template.ipynb`: A starter notebook with placeholders for:
-  - Library imports
-  - Data loading
-  - Data cleaning
-  - Data analysis
-  - Visualization
-
-## Notes
-This template is designed to streamline the creation of new project notebooks.
+- **1_Downloaded_Crime_Data.ipynb**: Cleaned and processed crime statistics for analysis.
+- **2_Scraped_Educational_Data.ipynb**: Cleaned manually downloaded educational data after scraping issues.
+- **3_Merge_and_Visualizations.ipynb**: Final notebook with visualizations showing trends and insights.
