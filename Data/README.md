@@ -1,12 +1,17 @@
 # Data Folder
 
-This folder contains the datasets used in the project. Due to issues with web scraping, some files were manually downloaded to ensure progress.
+This folder contains the datasets used in the project.
 
-- **Cleaned_Crime_Data.csv**: Cleaned crime statistics for major U.S. cities (2019-2023).
-- **Cleaned_Educational_Data.csv**: Cleaned educational attainment data for major U.S. cities.
-- **Merged_Educational_Crime_Data.csv**: Attempted merged dataset for educational attainment and crime data.
+### Files:
+1. **raw_data.csv**: 
+   - Original datasets for both educational attainment and crime rates.
+   - Unprocessed and uncleaned data sourced from Census.gov and FBI Crime Data Explorer.
 
-### Notes:
-- Crime data was downloaded from open data portals and cleaned in Jupyter Notebooks.
-- Educational data was manually downloaded from Census.gov after web scraping failed due to dynamic content and anti-scraping measures.
-- Merging the datasets faced challenges, so separate visualizations were used for analysis.
+2. **cleaned_data.csv**: 
+   - Final cleaned dataset used for analysis.
+   - Tasks completed include:
+     - Standardized column names.
+     - Removal of commas from numerical values.
+     - Dropping rows with missing or incomplete data.
+
+This folder provides the starting point and final data outputs for analysis.
