@@ -1,7 +1,23 @@
 # Notebooks Folder
 
-This folder contains the Jupyter notebooks used in the project.
+This folder contains Jupyter Notebooks documenting the data analysis workflow.
 
-- **1_Downloaded_Crime_Data.ipynb**: Cleaned and processed crime statistics for analysis.
-- **2_Scraped_Educational_Data.ipynb**: Cleaned manually downloaded educational data after scraping issues.
-- **3_Merge_and_Visualizations.ipynb**: Final notebook with visualizations showing trends and insights.
+### Files:
+1. **01_Downloaded_Data.ipynb**:
+   - Processes raw crime data downloaded from the FBI and city-level portals.
+   - Cleans and prepares the data for analysis.
+
+2. **02_Scraped_Educational_Data.ipynb**:
+   - Records challenges faced when scraping Census.gov data:
+     - Dynamic content issues.
+     - Browser crashes and anti-scraping blocks.
+   - Manually cleaned CSV data was used as a fallback to ensure progress.
+
+3. **03_Merged_Data_Graphs.ipynb**:
+   - Generates visualizations for both datasets:
+     - Crime trends over time.
+     - Educational trends by year and city.
+     - Bar charts for city-level comparisons.
+   - Highlights how separate analyses were conducted due to dataset merging issues.
+
+These notebooks provide a step-by-step guide to the data cleaning, analysis, and visualization process.
