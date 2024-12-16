@@ -1,6 +1,6 @@
 # Documentation Folder
 
-This folder contains documents related to the project workflow, planning, and data understanding.
+This folder contains the project reports, planning documents, and reflections.
 
-- **analysis_plan.md**: Outlines the project's goals, proposed analysis methods, and research questions.
-- **data_dictionary.md**: Describes the variables in the datasets, including data types and definitions.
+- **final_report.md**: Final project write-up including steps taken, issues faced, and key insights.
+- **data_dictionary.md**: A description of all columns in the datasets.
