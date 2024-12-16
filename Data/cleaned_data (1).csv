@@ -1,0 +1,451 @@
+city	year	value
+houston	2019	4.0
+houston	2019	1.0
+chicago	2019	1918.0
+chicago	2019	0.0
+new york	2019	11186.0
+new york	2019	5765.0
+phoenix	2019	3145.0
+phoenix	2019	925.0
+california	2019	2.0
+california	2019	0.0
+houston	2019	1.0
+houston	2019	1.0
+chicago	2019	2071.0
+chicago	2019	0.0
+new york	2019	11153.0
+new york	2019	5581.0
+phoenix	2019	3149.0
+phoenix	2019	905.0
+california	2019	0.0
+california	2019	0.0
+houston	2020	0.0
+houston	2020	0.0
+chicago	2020	1962.0
+chicago	2020	0.0
+new york	2020	11900.0
+new york	2020	6156.0
+phoenix	2020	3055.0
+phoenix	2020	907.0
+california	2020	1.0
+california	2020	0.0
+houston	2020	0.0
+houston	2020	0.0
+chicago	2020	1755.0
+chicago	2020	0.0
+new york	2020	10803.0
+new york	2020	5614.0
+phoenix	2020	3018.0
+phoenix	2020	825.0
+california	2020	1.0
+california	2020	0.0
+houston	2020	2.0
+houston	2020	0.0
+chicago	2020	1751.0
+chicago	2020	0.0
+new york	2020	11086.0
+new york	2020	5622.0
+phoenix	2020	3272.0
+phoenix	2020	931.0
+california	2020	1.0
+california	2020	0.0
+houston	2020	0.0
+houston	2020	0.0
+chicago	2020	1596.0
+chicago	2020	0.0
+new york	2020	9160.0
+new york	2020	4348.0
+phoenix	2020	3371.0
+phoenix	2020	1096.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	2.0
+houston	2020	0.0
+chicago	2020	2259.0
+chicago	2020	0.0
+new york	2020	11491.0
+new york	2020	5872.0
+phoenix	2020	3724.0
+phoenix	2020	1055.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	0.0
+houston	2020	0.0
+chicago	2020	2662.0
+chicago	2020	0.0
+new york	2020	12796.0
+new york	2020	5561.0
+phoenix	2020	3212.0
+phoenix	2020	862.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	0.0
+houston	2020	0.0
+chicago	2020	2789.0
+chicago	2020	0.0
+new york	2020	13860.0
+new york	2020	6032.0
+phoenix	2020	3333.0
+phoenix	2020	947.0
+california	2020	1.0
+california	2020	0.0
+houston	2020	6.0
+houston	2020	0.0
+chicago	2020	2838.0
+chicago	2020	0.0
+new york	2020	13959.0
+new york	2020	6427.0
+phoenix	2020	3637.0
+phoenix	2020	1033.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	5.0
+houston	2020	1.0
+chicago	2020	2424.0
+chicago	2020	0.0
+new york	2020	12414.0
+new york	2020	5829.0
+phoenix	2020	3249.0
+phoenix	2020	876.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	3.0
+houston	2020	0.0
+chicago	2020	2561.0
+chicago	2020	0.0
+new york	2020	12773.0
+new york	2020	5982.0
+phoenix	2020	3453.0
+phoenix	2020	994.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	4.0
+houston	2020	0.0
+chicago	2020	2150.0
+chicago	2020	0.0
+new york	2020	11563.0
+new york	2020	5529.0
+phoenix	2020	3194.0
+phoenix	2020	875.0
+california	2020	0.0
+california	2020	0.0
+houston	2020	2.0
+houston	2020	0.0
+chicago	2020	1845.0
+chicago	2020	0.0
+new york	2020	11132.0
+new york	2020	5661.0
+phoenix	2020	2986.0
+phoenix	2020	780.0
+california	2020	0.0
+california	2020	0.0
+houston	2021	3.0
+houston	2021	0.0
+new york	2021	3080.0
+new york	2021	1094.0
+houston	2021	4.0
+houston	2021	3.0
+new york	2021	3065.0
+new york	2021	1156.0
+houston	2021	3.0
+houston	2021	0.0
+new york	2021	3738.0
+new york	2021	1421.0
+houston	2021	5.0
+houston	2021	2.0
+new york	2021	3979.0
+new york	2021	1502.0
+houston	2021	5.0
+houston	2021	1.0
+new york	2021	4521.0
+new york	2021	1568.0
+houston	2021	1.0
+houston	2021	0.0
+chicago	2021	23.0
+chicago	2021	0.0
+new york	2021	4576.0
+new york	2021	1697.0
+houston	2021	5.0
+houston	2021	1.0
+chicago	2021	7834.0
+chicago	2021	1305.0
+new york	2021	4507.0
+new york	2021	1603.0
+houston	2021	0.0
+houston	2021	0.0
+chicago	2021	7215.0
+chicago	2021	1407.0
+new york	2021	4370.0
+new york	2021	1531.0
+houston	2021	0.0
+houston	2021	0.0
+chicago	2021	7706.0
+chicago	2021	1532.0
+new york	2021	4234.0
+new york	2021	1565.0
+houston	2021	3.0
+houston	2021	1.0
+chicago	2021	7759.0
+chicago	2021	1440.0
+new york	2021	4527.0
+new york	2021	1577.0
+houston	2021	5.0
+houston	2021	0.0
+chicago	2021	6621.0
+chicago	2021	1284.0
+new york	2021	3871.0
+new york	2021	1423.0
+houston	2021	2.0
+houston	2021	1.0
+chicago	2021	6726.0
+chicago	2021	1387.0
+new york	2021	3917.0
+new york	2021	1397.0
+houston	2022	2.0
+houston	2022	0.0
+chicago	2022	5865.0
+chicago	2022	1130.0
+new york	2022	12264.0
+new york	2022	3117.0
+phoenix	2022	3175.0
+phoenix	2022	848.0
+california	2022	1.0
+california	2022	0.0
+houston	2022	2.0
+houston	2022	0.0
+chicago	2022	5874.0
+chicago	2022	1311.0
+new york	2022	11864.0
+new york	2022	2997.0
+phoenix	2022	2799.0
+phoenix	2022	801.0
+california	2022	3.0
+california	2022	1.0
+houston	2022	4.0
+houston	2022	0.0
+chicago	2022	6769.0
+chicago	2022	1489.0
+new york	2022	13570.0
+new york	2022	3462.0
+phoenix	2022	3136.0
+phoenix	2022	865.0
+california	2022	3.0
+california	2022	1.0
+houston	2022	5.0
+houston	2022	1.0
+chicago	2022	6759.0
+chicago	2022	1458.0
+new york	2022	13497.0
+new york	2022	3358.0
+phoenix	2022	3347.0
+phoenix	2022	914.0
+california	2022	1.0
+california	2022	1.0
+houston	2022	1.0
+houston	2022	0.0
+chicago	2022	8040.0
+chicago	2022	1762.0
+new york	2022	15354.0
+new york	2022	3607.0
+phoenix	2022	3427.0
+phoenix	2022	953.0
+california	2022	6.0
+california	2022	1.0
+houston	2022	2.0
+houston	2022	1.0
+chicago	2022	8031.0
+chicago	2022	1633.0
+new york	2022	15811.0
+new york	2022	3850.0
+phoenix	2022	3122.0
+phoenix	2022	871.0
+california	2022	0.0
+california	2022	0.0
+houston	2022	2.0
+houston	2022	0.0
+chicago	2022	7963.0
+chicago	2022	1673.0
+new york	2022	16217.0
+new york	2022	3935.0
+phoenix	2022	3207.0
+phoenix	2022	889.0
+california	2022	0.0
+california	2022	0.0
+houston	2022	5.0
+houston	2022	3.0
+chicago	2022	7890.0
+chicago	2022	1772.0
+new york	2022	15266.0
+new york	2022	3791.0
+phoenix	2022	3170.0
+phoenix	2022	921.0
+california	2022	0.0
+california	2022	0.0
+houston	2022	2.0
+houston	2022	0.0
+chicago	2022	7729.0
+chicago	2022	1655.0
+new york	2022	13878.0
+new york	2022	3392.0
+phoenix	2022	3322.0
+phoenix	2022	925.0
+california	2022	0.0
+california	2022	0.0
+houston	2022	6.0
+houston	2022	1.0
+chicago	2022	7729.0
+chicago	2022	1550.0
+new york	2022	14319.0
+new york	2022	3432.0
+phoenix	2022	3157.0
+phoenix	2022	845.0
+california	2022	2.0
+california	2022	0.0
+houston	2022	5.0
+houston	2022	2.0
+chicago	2022	6741.0
+chicago	2022	1386.0
+new york	2022	13025.0
+new york	2022	3296.0
+phoenix	2022	2663.0
+phoenix	2022	772.0
+california	2022	0.0
+california	2022	0.0
+houston	2022	2.0
+houston	2022	1.0
+chicago	2022	6530.0
+chicago	2022	1442.0
+new york	2022	12645.0
+new york	2022	3133.0
+phoenix	2022	2748.0
+phoenix	2022	752.0
+california	2022	1.0
+california	2022	0.0
+houston	2023	2.0
+houston	2023	0.0
+chicago	2023	6861.0
+chicago	2023	1113.0
+new york	2023	27134.0
+new york	2023	10255.0
+phoenix	2023	2815.0
+phoenix	2023	790.0
+california	2023	1.0
+california	2023	0.0
+houston	2023	4.0
+houston	2023	0.0
+chicago	2023	6147.0
+chicago	2023	791.0
+new york	2023	24237.0
+new york	2023	9202.0
+phoenix	2023	2725.0
+phoenix	2023	711.0
+california	2023	2.0
+california	2023	0.0
+houston	2023	3.0
+houston	2023	1.0
+chicago	2023	7031.0
+chicago	2023	869.0
+new york	2023	27747.0
+new york	2023	10224.0
+phoenix	2023	3015.0
+phoenix	2023	803.0
+california	2023	1.0
+california	2023	0.0
+houston	2023	1.0
+houston	2023	0.0
+chicago	2023	7419.0
+chicago	2023	868.0
+new york	2023	28135.0
+new york	2023	10555.0
+phoenix	2023	3090.0
+phoenix	2023	809.0
+california	2023	2.0
+california	2023	0.0
+houston	2023	5.0
+houston	2023	1.0
+chicago	2023	8191.0
+chicago	2023	953.0
+new york	2023	31023.0
+new york	2023	10985.0
+phoenix	2023	3285.0
+phoenix	2023	949.0
+california	2023	0.0
+california	2023	0.0
+houston	2023	11.0
+houston	2023	2.0
+chicago	2023	8080.0
+chicago	2023	962.0
+new york	2023	30238.0
+new york	2023	11046.0
+phoenix	2023	2924.0
+phoenix	2023	857.0
+california	2023	0.0
+california	2023	0.0
+houston	2023	3.0
+houston	2023	1.0
+chicago	2023	8649.0
+chicago	2023	1063.0
+new york	2023	30256.0
+new york	2023	10993.0
+phoenix	2023	2934.0
+phoenix	2023	818.0
+california	2023	1.0
+california	2023	1.0
+houston	2023	3.0
+houston	2023	1.0
+chicago	2023	8784.0
+chicago	2023	1022.0
+new york	2023	29029.0
+new york	2023	10815.0
+phoenix	2023	3009.0
+phoenix	2023	910.0
+california	2023	0.0
+california	2023	0.0
+houston	2023	3.0
+houston	2023	1.0
+chicago	2023	8557.0
+chicago	2023	951.0
+new york	2023	27668.0
+new york	2023	10174.0
+phoenix	2023	3092.0
+phoenix	2023	902.0
+california	2023	0.0
+california	2023	0.0
+houston	2023	1.0
+houston	2023	0.0
+chicago	2023	8297.0
+chicago	2023	996.0
+new york	2023	29319.0
+new york	2023	10712.0
+phoenix	2023	3095.0
+phoenix	2023	863.0
+california	2023	3.0
+california	2023	0.0
+houston	2023	3.0
+houston	2023	0.0
+chicago	2023	7463.0
+chicago	2023	815.0
+new york	2023	26219.0
+new york	2023	10011.0
+phoenix	2023	2926.0
+phoenix	2023	905.0
+california	2023	4.0
+california	2023	1.0
+houston	2023	4.0
+houston	2023	0.0
+chicago	2023	7341.0
+chicago	2023	909.0
+new york	2023	26330.0
+new york	2023	9637.0
+phoenix	2023	2772.0
+phoenix	2023	779.0
+california	2023	2.0
+california	2023	2.0
+chicago	2019	2108.0
+chicago	2019	0.0
+new york	2019	12432.0
+new york	2019	6483.0
+phoenix	2019	3137.0
+phoenix	2019	894.0
+california	2019	2.0
+california	2019	1.0
